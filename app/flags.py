@@ -4,7 +4,7 @@ def check_flag_conditions(game, moves):
         return {
         'flag_part_2': 'BUF53R_0V3RFL0W_',
         'message': 'You exploited the buffer overflow!',
-        'message': 'Gather '
+        
         }
 
     # Flag 2: Win by negative index (wraparound)
